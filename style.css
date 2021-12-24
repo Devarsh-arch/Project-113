@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    border: 7px solid goldenrod;
+    border-radius: 5px;
+    background-color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#header_label{
+    font-size: 25px;
+    letter-spacing: 1cm;
+    margin-top: 10px;
+}
